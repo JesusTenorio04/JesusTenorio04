@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/JesusTenorio04/JesusTenorio04/blob/main/GitHub%20DS%20Banner.png" width="800"/>
+</div>
+
+
 ¡Hola, soy Jesús! 👋
 🚀 ¡Un gusto tenerte por aquí!
 
