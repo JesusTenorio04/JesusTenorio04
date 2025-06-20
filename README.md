@@ -18,6 +18,14 @@ Aprender cosas nuevas, resolver problemas y darle sentido a los datos para conta
 ### 💭 Mindset:
 Con energía para seguir aprendiendo y construyendo con datos.
 
+### 💻 Lenguajes y 🛠️ Herramientas:
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="python"/>
+
 ### 📫 ¿Conectamos?
 Escribeme a j.tenorioborjas@gmail.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/jesus-tenorio/).
 
@@ -37,6 +45,14 @@ Learning new things, solving problems, and finding meaning in data to tell impac
 
 ### 💭 Mindset:
 Driven to keep learning and building with data.
+
+### 💻 Languages y 🛠️ Tools:
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="python"/>
 
 ### 📫 Let’s connect!
 Feel free to reach out at j.tenorioborjas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jesus-tenorio/).
