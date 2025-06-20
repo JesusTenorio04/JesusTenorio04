@@ -19,12 +19,26 @@ Aprender cosas nuevas, resolver problemas y darle sentido a los datos para conta
 Con energía para seguir aprendiendo y construyendo con datos.
 
 ### 💻 Lenguajes y 🛠️ Herramientas:
+<!--Lenguajes & Librerías-->
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="python"/>
-<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="python"/>
+
+
+<!--Microsoft-->
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000" alt="python"/>  <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
 <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="python"/>
+
+<!--IDE-->
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=gagNo02GtaUp&format=png&color=000000" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python"/>
+
+<!--Version & Social-->
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=#ffffff" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="python"/>
 
 ### 📫 ¿Conectamos?
 Escribeme a j.tenorioborjas@gmail.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/jesus-tenorio/).
@@ -47,12 +61,25 @@ Learning new things, solving problems, and finding meaning in data to tell impac
 Driven to keep learning and building with data.
 
 ### 💻 Languages y 🛠️ Tools:
+<!--Languages & libraries-->
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="python"/>
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="python"/>
-<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="python"/>
+
+<!--Microsoft-->
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000" alt="python"/>  <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="python"/>
 <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="python"/>
+
+<!--IDE-->
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=gagNo02GtaUp&format=png&color=000000" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="python"/>
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python"/>
+
+<!--Version & Social-->
+<img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=#ffffff" alt="python"/>
+<img decoding="async" width=40 src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="python"/>
 
 ### 📫 Let’s connect!
 Feel free to reach out at j.tenorioborjas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jesus-tenorio/).
