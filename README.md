@@ -22,8 +22,6 @@ Con energía para seguir aprendiendo y construyendo con datos.
 Escribeme a j.tenorioborjas@gmail.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/jesus-tenorio/).
 
 ***
-#### English
-***
 
 # Hi, I'm Jesús! 👋
 ## 🚀 Great to have you here!
