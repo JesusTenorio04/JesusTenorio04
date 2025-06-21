@@ -3,7 +3,7 @@
 </div>
 
 
-# ¡Hola, soy Jesús! 👋
+# ¡Hola, soy Jesús! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 ## 🚀 ¡Un gusto tenerte por aquí!
 
 ### 👨‍💻 Sobre mí:
