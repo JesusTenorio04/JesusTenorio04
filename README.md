@@ -15,6 +15,11 @@ Aprender cosas nuevas, resolver problemas y darle sentido a los datos para conta
 ### 💭 Mindset:
 Con energía para seguir aprendiendo y construyendo con datos.
 
+### 📂 Proyectos destacados:
+- 🌧️ [Análisis de Lluvias e Inundaciones en Tabasco](https://github.com/JesusTenorio04/lluvias_tabasco_2025_project) — 40 años de datos climáticos para identificar patrones reales de precipitación e inundaciones en Tabasco.
+- 📚 [Rezago Educativo en Tabasco](https://github.com/JesusTenorio04/rezago_educativo_tabasco_project) — Análisis del impacto del rezago educativo en el estado.
+- 🎮 [Predicción de Éxito de Videojuegos](https://github.com/JesusTenorio04/game_store_project) — Modelo predictivo de éxito comercial basado en datos históricos de ventas.
+
 ### 💻 Lenguajes y 🛠️ Herramientas:
 <!--Lenguajes & Librerías-->
 <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>  <img decoding="async" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="python"/>
@@ -53,6 +58,11 @@ Learning new things, solving problems, and finding meaning in data to tell impac
 
 ### 💭 Mindset:
 Driven to keep learning and building with data.
+
+### 📂 Features Projects:
+- 🌧️ [Análisis de Lluvias e Inundaciones en Tabasco](https://github.com/JesusTenorio04/lluvias_tabasco_2025_project) — Rainfall Season Analysis in Tabasco, Mexico.
+- 📚 [Rezago Educativo en Tabasco](https://github.com/JesusTenorio04/rezago_educativo_tabasco_project) —  Educational lag analysis in Tabasco, Mexico.
+- 🎮 [Predicción de Éxito de Videojuegos](https://github.com/JesusTenorio04/game_store_project) — Game success prediction.
 
 ### 💻 Languages y 🛠️ Tools:
 <!--Languages & libraries-->
